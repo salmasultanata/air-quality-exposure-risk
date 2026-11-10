@@ -1,0 +1,1 @@
+["TEMP", "PRES", "DEWP", "RAIN", "WSPM", "RH", "month", "season", "dayofweek", "station", "site_type", "TEMP_lag1", "PRES_lag1", "DEWP_lag1", "RAIN_lag1", "WSPM_lag1", "RH_lag1", "TEMP_lag2", "PRES_lag2", "DEWP_lag2", "RAIN_lag2", "WSPM_lag2", "RH_lag2", "TEMP_roll3", "PRES_roll3", "DEWP_roll3", "RAIN_roll3", "WSPM_roll3", "RH_roll3"]
